@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BB Digital Week 2024</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>BB Digital Week 2024</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Pesquisar evento ou palestrante">
+            
+            <select id="dateFilter">
+                <option value="">Data</option>
+                <option value="29/10/2024">29/10/2024</option>
+                <option value="30/10/2024">30/10/2024</option>
+                <option value="31/10/2024">31/10/2024</option>
+            </select>
+            
+            <select id="auditoriumFilter">
+                <option value="">Auditório</option>
+                <option value="Auditório Master Azul">Auditório Master Azul</option>
+                <option value="Auditório Modular 1">Auditório Modular 1</option>
+                <!-- Adicione outras opções conforme necessário -->
+            </select>
+            
+            <select id="speakerFilter">
+                <option value="">Palestrante</option>
+                <option value="Goudinho de Oliveira (IBM)">Goudinho de Oliveira (IBM)</option>
+                <option value="Carlos Humberto Silva Vilela (Banco do Brasil)">Carlos Humberto Silva Vilela (Banco do Brasil)</option>
+                <!-- Adicione outras opções conforme necessário -->
+            </select>
+            
+            <select id="trackFilter">
+                <option value="">Trilha</option>
+                <option value="Trilha ASG & Pessoas">Trilha ASG & Pessoas</option>
+                <option value="Trilha Agile">Trilha Agile</option>
+                <!-- Adicione outras opções conforme necessário -->
+            </select>
+            
+            <select id="sortFilter">
+                <option value="data">Ordenar por data</option>
+                <option value="auditório">Ordenar por auditório</option>
+                <option value="palestraAZ">Ordenar por palestras A-Z</option>
+                <option value="palestraZA">Ordenar por palestras Z-A</option>
+            </select>
+            
+            <button onclick="filterEvents()">Filtrar Eventos</button>
+            <button onclick="clearFilters()">Limpar Filtros</button>
+        </div>
+    </header>
+    
+    <section>
+        <h2>Exibindo: <span id="resultCount"></span> resultados</h2>
+        <div id="eventsContainer"></div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

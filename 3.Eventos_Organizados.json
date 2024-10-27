@@ -1,0 +1,1187 @@
+[
+    {
+        "Data": "29/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Master Azul",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Goudinho de Oliveira (IBM), Carlos Humberto Silva Vilela (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Agile",
+        "Título": "Pinho Segundo (Banco do Brasil), Klauren Godoi Araujo Camargo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Master Rosa",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Tatiana Escovedo (Petrobrás), Diego Macedo Gomes da Costa (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "Alexandre Rodrigues (Sicoob), Wania Luisa de Camargo Vaz (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Experience",
+        "Título": "Gabeira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Tatiane Kanzler Barbosa Nunes (Banco do Brasil), Carlos Humberto Silva Vilela (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "(Banco do Brasil), André Tomaz Gontijo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Biometria",
+        "Descrição": "momento atual e movimentos futuros"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Regina Magalhães (Microsoft), Arthur Ferreira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Experience",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha IA & Analytics",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Technologies), Rande Rodrigues (Microsoft), Henrique Capozzi (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Inovação",
+        "Título": "Andre Apollaro (PayFy), Pablo Quimas (Banco do Brasil), Debora Viviane Marques (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Desenvolvimento",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Luan Oliveira (Businessmap), Raphael Araújo (Microsoft), Leonardo Rennó (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Inovação",
+        "Título": "Erhardt (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Agile",
+        "Título": "Araujo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Agile",
+        "Título": "Mandala Ágil",
+        "Descrição": "Uma abordagem prática para evolução da cultura de"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Master",
+        "Trilha": "Trilha Megapainel",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Lee Hecht Harrison), Fabio Paiva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Profissões do Futuro e Carreiras Digitais",
+        "Descrição": "Futuro do Trabalho"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Renato Soares da Silva (Consultor Recursos Humanos), Wagner de Sousa Nascimento (Previ), Simone Maia (LHH"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h25 às 14h50",
+        "Trilha": "Trilha Inovação",
+        "Título": "Francisco Nogueira Lima Junior (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h30 às 14h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h30 às 14h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Oficina",
+        "Descrição": "Humano no Futuro do Trabalho"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "14h30 às 14h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Inovação",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Master Azul",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "O pré-compilador COBOL",
+        "Descrição": "sistema escrito em Assembler e que existe há quase 20 anos – analisa todo código"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Experience",
+        "Título": "Cunha Bueno (Cartão Elo), Leonardo Queiroz da Silva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "(Businessmap), Marcus Vinicius Fahl (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 16h50",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Cartão Multibenefícios",
+        "Descrição": "Solução COMPLETA"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h00 às 16h50",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Experience",
+        "Título": "Thierry Cintra Marcondes (Alura/ Fiap), Carlos Eduardo de Lima Saugo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Vinícius Fernandes Corrêa (BNDES), Telma Luchetta (EY), Wilson Garcia (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Gomes (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Rodrigo Lopes (NTSEC), Regina Levenstein (BB Asset), Átila Batista Bandeira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Anderson Lima (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Inovação",
+        "Título": "Goncalves Dias de Medeiros (BB Seguros), Daniel Bravo dos Santos Junior (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h25 às 17h15",
+        "Local": "Auditório Master",
+        "Trilha": "Trilha Keynote",
+        "Título": "Cybersecurity e IA",
+        "Descrição": "Hackeando o Futuro"
+    },
+    {
+        "Data": "29/10/2024",
+        "Horário": "16h30 às 16h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Agile",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "09h30 às 09h55",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Experience",
+        "Título": "DevEx em ação",
+        "Descrição": "O labirinto da experiência do desenvolvedor"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Regina Levenstein (BB Asset), Estevan Costa Penas (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Inovação",
+        "Título": "Open Finance no BB",
+        "Descrição": "O uso racional dos dados para gerar negócios"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h30 às 10h55",
+        "Local": "Auditório Master",
+        "Trilha": "Trilha Keynote",
+        "Título": "Cybersecurity e IA",
+        "Descrição": "Hackeando o Futuro"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "Rocha (IBM), Rodrigo Amorim Porto (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Zambrana Vieir (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Monitoração com IA",
+        "Descrição": "Um Passo à frente!"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Inovação",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Renier Souza (Logicalis), Eduardo Santos (Thoughtworks), Alexsander Cruz (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Saúde para Todos",
+        "Descrição": "Como a Elo faz diferença na vida dos brasileiros?"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 11h55",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "mas",
+        "Descrição": "alerta geral – as transformações têm “efeitos colaterais”, como a ansiedade. Como virar o jogo e melhorar"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 11h55",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Soares de Melo Monteiro (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Otharan Nunes (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Short Talks",
+        "Descrição": "Cases de IA & Analytics em processos"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Barreto (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Data Centers Corporativos",
+        "Descrição": "tendências e impacto da IA nos Data Centers"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Brasil), Priscila Taissa Pires Carvalho (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Experience",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Levenstein (BB Asset), Marco Mantovani (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Agile",
+        "Título": "BB), Rodrigo Reghini Ferreira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Transformação digital",
+        "Descrição": "e você com isso?"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h00 às 15h30",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Do menu ao mainframe",
+        "Descrição": "Uma jornada pelos serviços de TI do Banco"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "Anderson Carlos Passini (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "MegaDOC",
+        "Descrição": "Revolucionando a schedulagem Mainframe"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "(Banco do Brasil), Daniele Melo Silva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Governo Digital",
+        "Descrição": "Estratégias e Prioridades"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h30 às 15h50",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "#juntoseconectados",
+        "Descrição": "Por dentro da conectividade do BB"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Pedro Calabrez (NeuroVox), Ana Alzira Rodrigues Rissi Frizzo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Inovação",
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Experience",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Rafael Rovani (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "do Brasil), Diogo Suzart Uzeda Picco (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Brasil), Diogo Faria Bernardi (Banco do Brasil S/A)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Plataforma de Processamento",
+        "Descrição": "Inovação no Gerenciamento"
+    },
+    {
+        "Data": "30/10/2024",
+        "Horário": "16h30 às 16h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "diversidade: Compatibilizando as necessidades e as diferenças. Diretrizes Organizacionais para Inclusão",
+        "Descrição": "Como"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "09h30 às 09h55",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Experience",
+        "Título": "BB Design System",
+        "Descrição": "criando um sistema de design para milhares de"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "09h30 às 09h55",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Claudio Cesar Noleto de Araujo (BB Tecnologia",
+        "Descrição": "BBTS), Wolmer Andrade Godoi (IBM), Lucas Ermino (SAS),"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "09h30 às 09h55",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Leandro Martins Inacio dos Santos (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "09h30 às 10h20",
+        "Trilha": "Trilha Inovação",
+        "Título": "Gustavo José Sousa da Silva (BB Tecnologia",
+        "Descrição": "BBTS)"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h00",
+        "Local": "Auditório Master",
+        "Trilha": "Trilha Keynote",
+        "Título": "Cenários prospectivos aplicados à indústria de pagamentos no Brasil",
+        "Descrição": "uma visão para 2030"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h00",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "agenda positiva em Ambiental, Social e Governamental",
+        "Descrição": "ASG. A intenção é promover uma compreensão da SRE"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h00",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Na palestra serão abordados os princípios da Engenharia de Confiabilidade do Site",
+        "Descrição": "SRE e como a prática"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h00",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "WIFI para todos",
+        "Descrição": "Os benefícios do WIFI7 e o desafio de prover rede sem fio"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Experience",
+        "Título": "Araújo Costa (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "(Banco do Brasil), Stenio Soares E Silva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h30 às 11h20",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Short Talks",
+        "Descrição": "Cases de IA & Analytics para negócios"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Agile",
+        "Título": "Segundo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "10h40 às 11h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "Daniel Semedo (Microsoft), Gilliard Macedo (IBM), Caio Cesar Pereira Soares (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Inovação",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h10 às 11h35",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Travassos de A. Novaes (HDI), Fabiane Campos Vale Jerke (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h30 às 12h20",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Inovação",
+        "Título": "Piloto DREX",
+        "Descrição": "A infraestrutura tecnológica da moeda Digital Brasileira"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha IA & Analytics",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "11h40 às 12h05",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Bruno Garrêto (NTT Data), Leandro Lucas (Cartão Elo), Saulo Santos (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h00 às 14h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Experience",
+        "Título": "Kellen De Oliveira Serrano (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Master",
+        "Trilha": "Trilha Megapainel",
+        "Título": "Mattos (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Multiplicidades), Paola Rodrigues Santos (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h00 às 14h50",
+        "Trilha": "Trilha Inovação",
+        "Título": "Ronan Campos (IDGeo), Richard ZEIGER (MSW CAPITAL), Debora Viviane Marques (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "14h30 às 14h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h00 às 15h25",
+        "Local": "Auditório Master Rosa",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "(Banco do Brasil), Ana Cristina Almeida Rodrigues (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha Desenvolvimento",
+        "Título": "Renzo Farinello (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Rafael Miranda Fontes (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h00 às 15h50",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "WatsonX (3 pilares) e 2 AI Apps",
+        "Descrição": "Orchestrate e Code Assistant"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h25 às 15h50",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Tanci Simões (Cesar",
+        "Descrição": "Instituto de Inovação)"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Flavio Henrique Calazans Pacifico (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h30 às 15h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Agile",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "15h55 às 16h20",
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Inovação",
+        "Título": "comunidade, como a co.nectaBB em Recife, inserindo-nos no ecossistema do Porto Digital",
+        "Descrição": "o Vale do Silício"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "Sanmya Noronha (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Inovação",
+        "Título": "Luciana Silva Barbosa de Carvalho (Banco do Brasil), Fabiano Macedo (BB Tecnologia",
+        "Descrição": "BBTS), Brenda Soares"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h25",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Inovação",
+        "Título": "Toledo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Giovanella (Banco do Brasil S.A.), Diego Fernando Garcia Gimeno (Banco do Brasil S.A.)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Infraestrutura",
+        "Título": "Fraga (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Local": "Auditório Modular 3",
+        "Trilha": "Trilha Inovação",
+        "Título": "Daiane da Costa Freire (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Trilha": "Trilha Experience",
+        "Título": "Neto (Banco do Brasil)",
+        "Descrição": "Moderador, Amanda Fantuzze Rodrigues de Almeida (Banco do Brasil) – Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h00 às 16h50",
+        "Trilha": "Trilha Governança & Gestão de TI",
+        "Título": "Freitas (Banco do Brasil), Vanessa Benvenutti (Banco da Patagonia)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h30 às 16h55",
+        "Local": "Auditório Planalto Branco",
+        "Trilha": "Trilha Experience",
+        "Descrição": "Moderador"
+    },
+    {
+        "Data": "31/10/2024",
+        "Horário": "16h30 às 16h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha IA & Analytics",
+        "Título": "Brito Nunes (Banco do Brasil)",
+        "Descrição": "Moderador, Flavia Alves Brito Nunes (Banco do Brasil) – Moderador"
+    },
+    {
+        "Horário": "09h30 às 10h20",
+        "Local": "Auditório Modular 1",
+        "Trilha": "Trilha ASG & Pessoas",
+        "Título": "(Banco do Brasil), Angela Grochenisk de Lima Leal (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Horário": "16h00 às 16h50",
+        "Trilha": "Trilha Experience",
+        "Título": "Agilidade inclusiva",
+        "Descrição": "Criando software acessível no Banco do Brasil."
+    },
+    {
+        "Horário": "16h30 às 16h55",
+        "Local": "Auditório Planalto Verde",
+        "Trilha": "Trilha Desenvolvimento",
+        "Descrição": "Moderador"
+    },
+    {
+        "Local": "Auditório Master Amarelo",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "comunidade. Não podemos encarar as pessoas como o elo mais fraco da segurança; elas são os cadeados",
+        "Descrição": "aquilo"
+    },
+    {
+        "Local": "Auditório Master Rosa",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "",
+        "Descrição": "às –"
+    },
+    {
+        "Local": "Auditório Master Rosa",
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": ""
+    },
+    {
+        "Local": "Auditório Modular 2",
+        "Trilha": "Trilha Experience",
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "(Banco do Brasil), Ana Cerqueira (Pentera), Gracielle Leal Vasconcelos Bandeira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Trilha": "Trilha Cibersegurança & Proteção de Dados",
+        "Título": "Rodrigues (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Trilha": "Trilha Inovação",
+        "Título": "Ronaldo Conte Samadello (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Trilha": "Trilha Keynote",
+        "Título": "Cenários prospectivos aplicados à indústria de pagamentos no Brasil",
+        "Descrição": "uma"
+    },
+    {
+        "Título": "(Alura/ Fiap), Erick Dos Santos Vieira Dos Santos Vieira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "(Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Bate papo de TW",
+        "Descrição": "Technical Writing – compartilhando experiências"
+    },
+    {
+        "Título": "Bianca Rosa Ruffato (BB Seguros), Rodrigo Lopes Ribeiro da Silva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Braincast",
+        "Descrição": "um podcast B9 (Braincast), Diego Macedo Gomes da Costa (Banco do Brasil) – Moderador"
+    },
+    {
+        "Título": "Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Brasil), Adriana Barros Leite (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "brasileiro",
+        "Descrição": "promovendo trocas de experiências, mentorias com alunos locais e criação de oportunidades. É um"
+    },
+    {
+        "Título": "Caldeira (Banco do Brasil), Francisco Kleber Rodrigues De Anchieta (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Cassiano Ebert (Petrobras), Argus Cavalcante (IBM), Larissa Vieira (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "David Cota (Dell), Paulo Osterkamp (Cisco), Marcelo Paiva (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "do Brasil), Rafael Dutra (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Fernanda Macano Zuppo (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Força de trabalho conectada aumentada (FTCA)",
+        "Descrição": "Como conectar cultura,"
+    },
+    {
+        "Título": "Guilherme de Melo Tonin (Banco do Brasil), Vera Mafra (BB Tecnologia",
+        "Descrição": "BBTS), Gabriel De Almeida Vilela"
+    },
+    {
+        "Título": "Humanos e IA: A parceria que impulsiona o sucesso do cliente",
+        "Descrição": "Conheça"
+    },
+    {
+        "Título": "Lei do Bem",
+        "Descrição": "desafios e oportunidades para incentivo à inovação"
+    },
+    {
+        "Título": "Maira Prado Louvison (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Marcel Saraiva (NVIDIA), Rodrigo Mendonça (Microsoft), Fabio Guimaraes (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "movimento? Venha refletir com o time do Braincast",
+        "Descrição": "um podcast B9."
+    },
+    {
+        "Título": "Navegando cultura",
+        "Descrição": "estratégias de gestão e governança em"
+    },
+    {
+        "Título": "Noemi Neri (Banco do Brasil), Márcia Vila Nova (Banco do Brasil), Fernanda Garcia (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Reduzir barreiras internas e elevar defesas externas",
+        "Descrição": "unir disciplinas é o"
+    },
+    {
+        "Título": "Round Table",
+        "Descrição": "Cases de IA & Analytics em técnicas e fundamentos"
+    },
+    {
+        "Título": "Tiago Rodrigues Lima (IBM), Clayton Sousa (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Value Management Office (VMO) e Portfólio de TI",
+        "Descrição": "Como maximizar o"
+    },
+    {
+        "Título": "Weverton Pereira Magalhaes (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Yokomizo (Banco do Brasil), Fausto Luis da Cunha Lana (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "Zambrana Vieir (Banco do Brasil), Jacques Stacciarini (Banco do Brasil)",
+        "Descrição": "Moderador"
+    },
+    {
+        "Título": "",
+        "Descrição": "às –"
+    },
+    {
+        "Título": ""
+    }
+]
