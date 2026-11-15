@@ -1,12 +1,18 @@
+"""Converte a planilha histórica em registros JSON sem sobrescrever a base do site."""
+import json
+from pathlib import Path
 import pandas as pd
 
-excel_path = "3.Informações_Extraídas.xlsx"  
-df = pd.read_excel(excel_path)
+BASE = Path(__file__).resolve().parent
+SAIDA = BASE / "outputs"
 
-json_data = df.to_dict(orient="records")
+def converter():
+    SAIDA.mkdir(exist_ok=True)
+    df = pd.read_excel(BASE / "0.Informações_Extraídas.xlsx")
+    registros = df.astype(object).where(df.notna(), None).to_dict(orient="records")
+    destino = SAIDA / "eventos_extraidos.json"
+    destino.write_text(json.dumps(registros, ensure_ascii=False, indent=2, default=str), encoding="utf-8")
+    print(f"{len(registros)} registros exportados para {destino}")
 
-with open("events_data.json", "w", encoding="utf-8") as json_file:
-    import json
-    json.dump(json_data, json_file, ensure_ascii=False, indent=4)
-
-print("Arquivo JSON gerado com sucesso!")
+if __name__ == "__main__":
+    converter()
